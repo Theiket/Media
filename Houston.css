@@ -26,8 +26,8 @@
   --jf-palette-action-hover: rgba(61, 219, 168, 0.08);
 
   /* ── Houston logo (embedded, so nothing needs hosting) ── */
-  --houston-wordmark: url("https://cdn.jsdelivr.net/gh/Theiket/Media@main/HoustonLogo.png")
-  --houston-icon: url("https://cdn.jsdelivr.net/gh/Theiket/Media@main/HoustonLogo.png")
+  --houston-wordmark: url("https://cdn.jsdelivr.net/gh/Theiket/Media@main/HoustonLogo.png");
+  --houston-icon: url("https://cdn.jsdelivr.net/gh/Theiket/Media@main/HoustonLogo.png");
 }
 
 /* ── Logo: elements drawn with a CSS background (header, loading splash) ── */
